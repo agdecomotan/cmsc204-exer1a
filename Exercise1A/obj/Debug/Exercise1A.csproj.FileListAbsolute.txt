@@ -1,0 +1,7 @@
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\bin\Debug\Exercise1A.exe.config
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\bin\Debug\Exercise1A.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\bin\Debug\Exercise1A.pdb
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\obj\Debug\Exercise1A.csprojAssemblyReference.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\obj\Debug\Exercise1A.csproj.CoreCompileInputs.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\obj\Debug\Exercise1A.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\Exercise1A\Exercise1A\obj\Debug\Exercise1A.pdb
